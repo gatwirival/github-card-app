@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+## What i learned
+- React  class component
+- Styling React components
+- working with data
+- Initializing and reading the state object
+- Taking input from the user
+- Working with ajax calls
+
+### code explanation
+- App component manages the relation between all the other components
+- Form component reads input from the user
+- card component renders information about the github profile
+- Cardlist component converts an array of records in to an array of card components
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
