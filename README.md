@@ -1,5 +1,5 @@
 ## What i learned
-- React  class component
+-How to create React  class component
 - Styling React components
 - working with data
 - Initializing and reading the state object
